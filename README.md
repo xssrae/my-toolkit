@@ -1,6 +1,6 @@
 # My Pentest Tools
 
-Automatization of my most used tools for Pentest and Offensive Secuity. Feel free to use the code if you want.
+Automatization of my most used tools for Pentest and Offensive Secuity. Feel free to use this code if you want.
 
 ## How use this repository?
 
