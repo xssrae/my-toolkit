@@ -11,5 +11,5 @@ unzip PentestKit-main
 
 cd /PentestKit-main
 
-sh install-tools.sh # beggin the installation
+sudo sh install-tools.sh # beggin the installation
 ```
